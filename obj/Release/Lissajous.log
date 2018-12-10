@@ -1,0 +1,16 @@
+﻿  main.cpp
+  ofApp.cpp
+d:\07_of\of_v0.10.0_vs2017_release\apps\myapps\of--lissajous\src\ofapp.cpp(28): warning C4996: 'ofRect': Use ofDrawRectangle instead
+  d:\07_of\of_v0.10.0_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(512): note: vedere la dichiarazione di 'ofRect'
+d:\07_of\of_v0.10.0_vs2017_release\apps\myapps\of--lissajous\src\ofapp.cpp(41): warning C4996: 'ofCircle': Use ofDrawCircle instead
+  d:\07_of\of_v0.10.0_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(500): note: vedere la dichiarazione di 'ofCircle'
+     Creazione della libreria bin\Lissajous.lib e dell'oggetto bin\Lissajous.exp
+  LINK : è stata specificata l'opzione /LTCG ma non è richiesta la generazione del codice; rimuovere /LTCG dalla riga di comando del collegamento per migliorare le prestazioni del linker
+  Lissajous.vcxproj -> D:\07_OF\of_v0.10.0_vs2017_release\apps\myApps\OF--Lissajous\bin\Lissajous.exe
+  
+  	                   2	D:\07_OF\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *File supplementare		 5647872	D:\07_OF\of_v0.10.0_vs2017_release\apps\myApps\OF--Lissajous\bin\FreeImage.dll
+  
+  	                   1	D:\07_OF\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *File supplementare		 1266176	D:\07_OF\of_v0.10.0_vs2017_release\apps\myApps\OF--Lissajous\bin\fmodex.dll
+  	  *File supplementare		 1312768	D:\07_OF\of_v0.10.0_vs2017_release\apps\myApps\OF--Lissajous\bin\fmodexL.dll
